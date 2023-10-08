@@ -1,17 +1,15 @@
 Hello @Yashwanth9898GitHub (Jitta Yashwanth Reddy) 👋,
 
-It's great to see your interest in innovation, social service, and learning new things! Creating a compelling GitHub profile README can help you showcase your skills and interests to the community. Here's a mix of both fun and professional content you can add to your README:
-
-Professional Section:
+**Professional Section:**
 🔧 Skills & Technologies:
-Web Technologies: HTML, CSS, JavaScript, React, Node.js
+Web Technologies: HTML, CSS, JavaScript, React, Node.js(basic)
 Data Science: Python, Pandas, NumPy, Matplotlib
 Human Values: Actively promoting empathy, kindness, and inclusivity in the tech community
-📚 Education:
+**📚 Education:**
 Studying in Sreenidhi Institute of Science and Technology - Majoring in Electronic & Computer Engineering(ECM)
-🌍 Mission:
+**🌍 Mission:**
 On a mission to create a world with minimal unemployment through tech-driven solutions and social service.
-🚀 Projects:
+**🚀 Projects:**
 Check out my latest project: Smart_Bridge(Varadhi)
 Proud contributor to Open Source Project
 -->Bharath
@@ -19,12 +17,12 @@ Proud contributor to Open Source Project
 -->NandiniReddy
 -->Sathwik Reddy
 few more projects are there but update coming soon...
-Fun Section:
-🚀 Exploration:
+**Fun Section:
+🚀 Exploration:**
 Exploring the vast universe of web technologies and data science, one line of code at a time! 💻
-🧠 Lifelong Learner:
+**🧠 Lifelong Learner:**
 I believe in the power of continuous learning. Currently, I'm learning to master web technologies and data science while honing my human values and soft skills. 🌱
-🌟 Join My Journey:
+**🌟 Join My Journey:**
 Want to join me on my quest for knowledge and innovation? Let's connect and learn together! 🌐
 .....................................................................................................................................................................................................................................................................................................
 .....................................................................................................................................................................................................................................................................................................
