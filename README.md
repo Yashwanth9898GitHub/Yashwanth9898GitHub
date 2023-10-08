@@ -2,8 +2,8 @@ Hello @Yashwanth9898GitHub (Jitta Yashwanth Reddy) 👋,
 
 **Professional Section:**
 🔧 Skills & Technologies:
-Web Technologies: HTML, CSS, JavaScript, React, Node.js(basic)
-Data Science: Python, Pandas, NumPy, Matplotlib
+Web Technologies: {HTML, CSS, JavaScript, React, Node.js}(some what basic knowledge)
+some languages:- like c,java,c++,python....
 Human Values: Actively promoting empathy, kindness, and inclusivity in the tech community
 
 
