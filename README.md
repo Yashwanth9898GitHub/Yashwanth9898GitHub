@@ -18,6 +18,7 @@ On a mission to create a world with minimal unemployment through tech-driven sol
 **🚀 Projects:**
 Check out my latest project: Smart_Bridge(Varadhi)
 Proud contributor to Open Source Project
+team {main support}
 -->Bharath
 -->Vamshi
 -->NandiniReddy
